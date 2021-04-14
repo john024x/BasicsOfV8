@@ -1,0 +1,19 @@
+{
+  "name": "enginev8",
+  "version": "1.0.0",
+  "description": "Basics of v8 program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john024x/BasicsOfV8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john024x/BasicsOfV8/issues"
+  },
+  "homepage": "https://github.com/john024x/BasicsOfV8#readme"
+}
